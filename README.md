@@ -27,13 +27,3 @@
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/?size=50&id=90519&format=png&color=000000"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/><img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000"/> 
 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-
-<br>
-
-# Proyectos realizados
-
-<ol>
-	<li>Grupo Alan</li>
-	<li>Proyecto Integrado</li>
-	<li>Artemist Movement</li>
-</ol>
